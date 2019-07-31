@@ -25,3 +25,6 @@ Swap colour between images for use cases such as modelling
 	d. pip install pynput
 
 6. Run the program by clicking on the file "stitch_main.py"
+
+
+<img width="200" alt="Screen Shot 2019-08-01 at 12 16 25 AM" src="https://user-images.githubusercontent.com/28408607/62238982-a5b36b00-b3f1-11e9-8f68-f2dac911ce74.png">
